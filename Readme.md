@@ -23,3 +23,15 @@ or
 ```
   npm run build
 ```
+
+## Git Commands
+``` git
+
+git init
+git add .
+git commit -m"first commit"
+git branch -M main
+git remote add origin https://github.com/zezhou96/repo-name.git
+git push -u origin main
+
+```
